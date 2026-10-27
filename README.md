@@ -14,7 +14,7 @@ Allows the loading of your own custom bundles completely independent from anythi
 
 All bundles must reside within a mod's `custom_bundles` folder.
 
-Alongside this, each bundle must come with a `asset_manifest.json` file, which can then mark objects and match them to the previously discussed types. (For custom Sounds, use `custom_banks` instead, or just use CSound you MF)
+Alongside this, each bundle must come with a `asset_manifest.json` file, which can then mark objects and match them to the previously discussed types. (For custom Sounds, use `custom_banks` instead)
 
 **How do I create a manifest?**
 
