@@ -46,9 +46,10 @@ Labels and resourceId pairs are used in game, so you can either look at existing
 
 **How do I add FMod Sound banks?**
 
-1. Build the FMOD project and export the `.bank` files.
+1. Build the FMOD project and export the `.bank` files. Refer to [this guide for creating the FMOD bank.](https://discord.com/channels/1200863040011259934/1557783029374783581/1564653271094661220)
 2. Put them in the `custom_banks` folder.
-3. Make sure the `.strings` is present alongside the bank, then you should be able to use them.
+3. Make sure the `.strings` is present alongside the bank, and then they will be usable in game.
+4. If you want to use these in your custom bundles, download FMOD Unity, then, grab [the audio scripts and add them to your timelines.](https://discord.com/channels/1200863040011259934/1557783029374783581/1559244738698280980)
 
 **How do I use shader remapping?**
 
